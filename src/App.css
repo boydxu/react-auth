@@ -1,0 +1,10 @@
+@import '~antd/dist/antd.css';
+
+.app {
+  padding: 40px;
+}
+.form {
+  width: 500px;
+  margin: 0 auto;
+
+}
